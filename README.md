@@ -7,7 +7,7 @@
 
 - 💞️ If you need and want someone to collaborate on your project, especially if it involves learning material, I could be your guy.
 
-- 📫 If that's the case, reach me at https://estudianteporahora.home.blog/ or message me to <victortizs@outlook.com>.
+- 📫 If that's the case, reach me at https://estudianteporahora.home.blog/ or <victortizs@outlook.com>.
 
 <!---
 victortizs/victortizs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
