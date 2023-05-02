@@ -1,4 +1,4 @@
-## 👋 Hi and welcome
+## 👋 Hi and welcome,
 - I'm a centennial currently living in Argentina, studying at UBA and dealing with everyday life and young adult issues too XD.
 
 - 👀 I’m interested in data, of all kind to be honest. I'm just trying to learn how to extract valuable insights from daily data, usual events and common queries.
