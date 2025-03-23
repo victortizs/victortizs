@@ -6,7 +6,7 @@ I’m interested in data, of all kind to be honest. I'm also trying to learn how
 
 Right now I’m using free available content from places like Microsoft or Youtube (to name some) to get my cheese, and I'll be using Git for sure. 🌱
 
-If you need and want someone to collaborate on your project, especially if involves learning material, I could be your guy. 💞️
+If you need and want someone to collaborate on your project, especially if involves learning material, I could be the one. 💞️
 
 If that's the case, reach out to me at my [blog](https://estudianteporahora.com/) or [email](mailto:victortizs@outlook.com). 📫
 
