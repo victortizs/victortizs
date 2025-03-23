@@ -1,4 +1,4 @@
-# Hi there
+# Hey there
 
 I'm a centennial currently living in Argentina, studying at UBA and dealing with everyday life and young adult issues too XD.
 
