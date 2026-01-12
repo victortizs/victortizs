@@ -2,7 +2,7 @@
 
 I'm a centennial currently living in Argentina, studying at UBA and dealing with everyday life and young adult issues too **XD**.
 
-I’m interested in data, of all kind to be honest. I'm also trying to learn how to extract valuable insights from daily data, usual events and common queries 👀
+I’m interested in data, of all kind to be honest. I'm also trying to learn how to extract valuable insights from daily data, random events and common queries 👀
 
 How? Using free available content from places like Microsoft or Youtube (to name some) to get my cheese, and I'll be using Git for sure 🌱
 
