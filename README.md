@@ -4,7 +4,7 @@ I'm a centennial currently living in Argentina, studying at UBA and dealing with
 
 I’m interested in data, of all kind to be honest. I'm also trying to learn how to extract valuable insights from daily data, random events and common queries 👀
 
-How? Using free available content from places like Microsoft or Youtube (to name some) to get my cheese, and I'll be using Git for sure 🌱
+How? Using free available content from places like Microsoft or Youtube—to name some—to get my cheese, and I'll be using Git for sure 🌱
 
 If you need and want someone to collaborate on your project, especially if involves learning material, I could be the one 💞️
 
