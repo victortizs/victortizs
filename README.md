@@ -1,4 +1,4 @@
-# HOLA
+# Hola
 
 If you need and want someone to collaborate on your project, especially if involves learning material, I could be the one 💞️
 
