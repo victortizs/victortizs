@@ -2,10 +2,6 @@
 
 I'm a centennial currently living in Argentina, studying at UBA and dealing with everyday life and young adult issues too **XD**.
 
-I’m interested in data, of all kind to be honest. I'm also trying to learn how to extract valuable insights from daily data, random events and common queries 👀
-
-How? Using freely available content from places like Microsoft and YouTube, and I’ll definitely be using Git along the way 🌱
-
 If you need and want someone to collaborate on your project, especially if involves learning material, I could be the one 💞️
 
 If that's the case, reach out to me at my [blog](https://estudianteporahora.home.blog/) or [email](mailto:victortizs@outlook.com) 📫
