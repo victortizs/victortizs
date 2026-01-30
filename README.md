@@ -1,9 +1,6 @@
 # ¡Hola!
 
-I'm a centennial currently living in Argentina, studying at UBA and dealing with everyday life and young adult issues too **XD**.
-
 If you need and want someone to collaborate on your project, especially if involves learning material, I could be the one 💞️
-
 If that's the case, reach out to me at my [blog](https://estudianteporahora.home.blog/) or [email](mailto:victortizs@outlook.com) 📫
 
 <!---
