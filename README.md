@@ -1,4 +1,4 @@
-# Hello
+# Hi you
 
 If you're looking for someone to collaborate on your project, especially if involves learning material, I could be your guy 💞️
 
