@@ -1,4 +1,4 @@
-Hello,
+👋🏼 Hello,
 
 If you're interested in collaborating on projects focused on learning and experimentation, reach out via my [blog](https://estudianteporahora.home.blog/contacto/) or [email](mailto:victortizs@outlook.com).
 
